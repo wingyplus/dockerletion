@@ -1,0 +1,22 @@
+{
+  "name": "dockerletion",
+  "main": "./lib/dockerletion",
+  "version": "0.0.0",
+  "description": "A autocompletion docker instructions for Atom text editor",
+  "keywords": [],
+  "repository": "https://github.com/wingyplus/dockerletion",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-package-dependencies": "latest"
+  },
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "provider"
+      }
+    }
+  }
+}
