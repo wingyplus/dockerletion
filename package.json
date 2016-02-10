@@ -1,7 +1,7 @@
 {
   "name": "dockerletion",
   "main": "./lib/dockerletion",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A autocompletion docker instructions for Atom text editor",
   "keywords": [],
   "repository": "https://github.com/wingyplus/dockerletion",
